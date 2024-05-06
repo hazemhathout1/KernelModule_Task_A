@@ -38,10 +38,5 @@ Replace "Path_File" with the path to the directory you want to organize.
 
 Contributions to enhance the functionality and usability of the File Organizer project are welcome! Feel free to open issues for bugs, feature requests, or to submit pull requests with improvements.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-Created with ❤️ by [Your Name]
 
